@@ -79,18 +79,18 @@ a {
 
 }
 
-#header > #arrowmaindiv
+#header > .arrowmaindiv
 {
 	Width:100%;
 	Height:auto;
 	
 }
-#header > #arrowmaindiv > #arrowmaindivLeft
+#header > .arrowmaindiv > .arrowmaindivLeft
 {
 	Width:40%;
 	Height:auto;
 }
-#header > #arrowmaindiv > arrowmaindivRight
+#header > .arrowmaindiv > .arrowmaindivRight
 {
 	Width:60%;
 	Height:auto;
