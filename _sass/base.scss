@@ -87,7 +87,14 @@ a {
 }
 .arrowmaindiv > .arrowmaindivLeft
 {
-	Width:40%;
+Width: 7%;
+Height: auto;
+float:left;
+	
+}
+
+.arrowmaindiv > .arrowmaindivRight
+{
 Width: 7%;
 Height: auto;
 align-content: center;
