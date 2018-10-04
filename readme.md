@@ -22,14 +22,7 @@ You can change the "baseurl" value into the ``config.yml`` file, to match your d
 ### Typography
 To maintain the vertical rhythm, it has been applied a **Typographic scale** as a modular scale, with a baseline set to 24px. To maintain this rhythm you need to insert elements like image, video or other contents with a 24px (or multiple) height as refer.
 
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point! 
-
-## Author
-
-### Jacopo Rabolini
-
-- Web site: [www.jacoporabolini.com](http://www.jacoporabolini.com)
-- Google+: [+JacopoRabolini](https://plus.google.com/u/0/+JacopoRabolini/posts)
+Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
 
 ## License
 Emerald is released under [MIT License](license.md).
